@@ -2,7 +2,7 @@
 
 🚀 **ETL_Project: Data Processing and Integration Pipeline**
 
-Este proyecto implementa un pipeline ETL (Extract, Transform, Load) altamente eficiente diseñado para manejar grandes volúmenes de datos en un entorno de producción. Construido con Python, este pipeline automatiza la extracción de datos desde diversas fuentes, transforma la información según reglas personalizadas, y la carga en sistemas de almacenamiento listos para análisis.
+Este proyecto implementa un pipeline ETL (Extract, Transform, Load) que gestiona el proceso de extracción, transformación y carga de datos. Desarrollado en Python, automatiza la extracción de datos de diversas fuentes, los transforma según reglas específicas y los carga en sistemas de almacenamiento para su análisis.
 
 **Características destacadas:**
 - ⚙️ **Automatización Completa:** Procesos de ETL gestionados por scripts Python altamente optimizados.
